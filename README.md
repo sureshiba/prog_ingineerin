@@ -5,4 +5,4 @@
 
 
 **Ссылка:**
-(классификатор текста)[https://myapp123.streamlit.app/]
+[классификатор текста](https://myapp123.streamlit.app/)
